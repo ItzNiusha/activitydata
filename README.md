@@ -1,4 +1,4 @@
-# ActivityDataVisualization
+# Activity Data Visualization
 
 Java application prototype developed as a university project for visualizing activity data from an activity watch. Implements MVC architecture for structured code organization.
 
